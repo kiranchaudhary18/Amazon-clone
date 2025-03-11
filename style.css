@@ -1,0 +1,145 @@
+.amazon{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    column-gap: 40px;
+    height: 45px;
+    width:105vw ;
+}.text{
+    font-size: 12px;
+    color: rgb(157, 172, 172);
+    margin-top: -30px;
+    margin-left: 40px;
+}.text1{
+    font-size: 15px;
+    color:white;
+    margin-top: -15px;
+    margin-left: 40px;
+}.search{
+    background-color:white;
+
+    margin-top: 7px;
+    margin-left: 40px;
+    width: 35%;
+    height:30px;
+    border-radius: 4px;
+    color: rgb(110, 103, 103);
+    }
+    .search1{
+        background-color: rgb(220, 156, 35);
+        width: 50px;
+        height: 30px;
+        margin-top: 7px;
+        border-radius: 4px;
+        margin-left: -50px;
+       
+    }.india{
+        margin-top: 10px;
+        margin-left: 25px;
+    }.hello{
+        color:white;
+        font-size:10px ;
+        margin-left: 30px;
+    }.acc{
+        color:white;
+        margin-top: -13px;
+        margin-left: 30px;
+    }.return{
+        color:white;
+        font-size:10px ;
+        margin-left: 30px;
+    }.odd{
+        color:white;
+        margin-top: -13px;
+        margin-left: 30px;
+    }.zon{
+        background-color: rgb(37, 37, 70);
+        height: 30px;
+        width: 105vw;
+       display: flex;
+       flex-direction: row;
+       column-gap: 14px;
+        color:white;
+    align-items: center;
+    }
+    .ass{
+        background-image: url(background\ picture.png);
+        height:85vh;
+       width: 102vw;
+       margin-left: 20px;
+    }
+    .left{
+        margin-top: -540px;
+        margin-left: 40px;
+    }.right{
+        margin-top: -50px;
+        margin-left: 100vw;
+    }
+    .box {
+        
+        display: flex;
+        flex-direction: row;
+        column-gap: px;
+    }
+    .box1{
+        background-color:white;
+    margin-left: 40px;
+    margin-top: 25vh;
+    width: 28vw;
+    height: 20vw;
+
+    }
+    .img1{
+    margin-left: 15px;
+    margin-top: -15px;
+    
+    }
+    .p1{
+        color:rgb(145, 155, 155);
+        margin-top: -20px;
+    }
+    .img2{
+        margin-left: 15px;
+    }
+    .box2{
+        
+        background-color:white;
+        margin-left: 40px;
+        margin-top: 25vh;
+        width: 28vw;
+        height: 20vw;
+
+    }
+    
+
+    
+    .box3{
+        background-color:white;
+        margin-left: 40px;
+        margin-top: 25vh;
+        width: 24vw;
+        height: 20vw;
+
+    }
+    .box4{
+        
+        background-color:white;
+        margin-left: 40px;
+        margin-top: 25vh;
+        width: 26vw;
+        height: 7.5vw;
+
+    }.button{
+        background-color:yellow;
+        border:1px solid yellow;
+        border-radius: 10px;
+        width: 15vw;
+        height: 4vh;
+        margin-left: 20px;
+        margin-top: -13px;
+    }.laptop{
+        
+        margin-top:42vh;
+        margin-left: -290px;
+    }
+    
